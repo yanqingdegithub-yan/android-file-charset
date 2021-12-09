@@ -4,7 +4,7 @@ Android 获取文件的编码
 注：本文属于转载
 原文链接：[https://blog.csdn.net/u013144287/article/details/74455817](https://blog.csdn.net/u013144287/article/details/74455817)  遵循[ CC 4.0 BY-SA ](http://creativecommons.org/licenses/by-sa/4.0/)版权协议
 
-最后的ExchangeUtil代码经简单测试可以直接使用，支持的编码格式很多，我试过GB2313、GBK、UTF-8、BIG5等格式能正确获取到
+最后的ExchangeUtil代码经简单测试可以直接使用，支持的编码格式很多，我试过GB2312、GBK、UTF-8、BIG5等格式能正确获取到
 
 使用方式
 ```
